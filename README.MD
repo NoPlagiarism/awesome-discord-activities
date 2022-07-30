@@ -21,6 +21,12 @@ List of awesome external Discord Rich Presences for games/programs and etc
 - [VK Music RPC for Discord](https://github.com/DaveFeed/VK-Music-RPC-for-Discord) - VK.com Music RPC creator with music name and author
 - [yandexmusicrpc](https://github.com/schwarzalexey/yandexmusicrpc) - Yandex Music Discord RPC based on Yandex
 - [apple-music-discord-rpc](https://github.com/NextFire/apple-music-discord-rpc) - Discord Rich Presence Client for the macOS Apple Music app and iTunes
+- [TIDAL-Discord-Rich-Presence-UNOFFICIAL](https://github.com/purpl3F0x/TIDAL-Discord-Rich-Presence-UNOFFICIAL) - UNOFFICIAL [Tidal](https://tidal.com/) Discord Rich Presence
+- [DiscordBee](https://github.com/sll552/DiscordBee) - [MusicBee](https://www.getmusicbee.com/) plugin that updates your Discord status with the currently playing track
+
+
+## Media
+- [Discrakt](https://github.com/afonsojramos/discrakt) - Easy to Use [Trakt](https://trakt.tv/) Discord Rich Presence. (It can be called Universal Media RPC bundle)
 
 
 ## Programming/Editing
@@ -36,9 +42,11 @@ List of awesome external Discord Rich Presences for games/programs and etc
 - [Elcord](https://github.com/Mstrodl/elcord) - Discord Rich Presence for [Emacs](https://www.gnu.org/software/emacs/)
 - [Godot Editor Discord Presence](https://github.com/3ddelano/godot-editor-discord-presence) - Shows what you are doing in the [Godot](https://godotengine.org/) Editor as your Discord presence
 - [Unity Editor Rich Presence](https://github.com/MarshMello0/Editor-Rich-Presence) - Discord Rich Presence for the [Unity](https://unity.com) editor
+- [Discord Arduino Presence](https://github.com/Yeikzy/discord-arduino) - Shows what you are editing in Arduino IDE
 
-## Writing
+## Writing/Design
 - [DiscordForOffice](https://github.com/7coil/DiscordForOffice) - Discord Rich Presence for Microsoft Office (2013 and above, Office 365). Word/PowerPoint/Excel/Outlook
+- [figma-discord-presence](https://github.com/bryanberger/figma-discord-presence) - Update your discord activity status with a rich presence from [Figma](https://www.figma.com/)
 
 ## 3D
 - [BlendPresence](https://github.com/abrasic/blendpresence) - Addon for [Blender](https://www.blender.org/) that allows you to show off what you're doing in Discord using Rich Presence
@@ -49,6 +57,7 @@ List of awesome external Discord Rich Presences for games/programs and etc
 - [Disintegrate](https://github.com/AaronC81/Disintegrate) - Discord Rich Presence for [DOTA 2](https://store.steampowered.com/app/570/Dota_2/) and [CS:GO](https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/)
 - [Undertale Discord Rich Presence](https://github.com/AntonHei/Undertale_DiscordRichPresence) - Rich Presence Script for [Undertale](https://undertale.com/). (Working with Save-Games)
 - [ApexRPC](https://github.com/Holfz/ApexRPC) - ApexRPC is a client to convert Steam Rich Presence to Discord Rich Presence for [Apex Legends](https://store.steampowered.com/app/1172470/Apex_Legends/) (Steam only)
+- [valorant-rpc](https://github.com/colinhartigan/valorant-rpc) - Feature-rich Discord rich-presence implementation for [Valorant](https://playvalorant.com/)
 - [StardewPresence](https://github.com/jaaiden/StardewPresence) - Discord Rich Presence for [Stardew Valley](https://www.stardewvalley.net/)
 - [rpc4stalker](https://github.com/TosoxDev/rpc4stalker) - An easy discord rich-presence implementation for S.T.A.L.K.E.R. (Call of Chernobyl, Call of The Zone, Call of Misery, Anomaly, Dead Air, A.R.E.A)
 
@@ -58,6 +67,7 @@ List of awesome external Discord Rich Presences for games/programs and etc
 - [OpenEmuRPC](https://github.com/MCMi460/OpenEmuRPC) - Simple application that provides your current [OpenEmu](https://openemu.org/) game as an RPC state in Discord
 - [wine-rpc](https://github.com/LeadRDRK/wine-rpc) - wine-rpc provides a Discord Rich Presence for any programs running under [Wine](https://www.winehq.org/)
 - [SwitchPresence](https://github.com/SunResearchInstitute/SwitchPresence-Rewritten) - Nintendo Switch presence. Homebrew needed
+- [NSO-RPC](https://github.com/MCMi460/NSO-RPC) - Connect your Nintendo Switch playing status to Discord. Secondary Nintendo friend account needed
 
 ## Other
 - [RPC-Pc-Status](https://github.com/Faelayis/RPC-Pc-Status) - Rich Presence Pc Status for your Discord

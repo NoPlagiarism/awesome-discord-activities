@@ -1,4 +1,4 @@
-# Awesome Discord Activities
+# Awesome Discord Activities (Awesome Discord RPC)
 
 List of awesome external Discord Rich Presences for games/programs and etc
 

@@ -10,8 +10,8 @@ List of awesome external Discord Rich Presences for games/programs and etc
 ## Custom
 - [AutoStartRichPresence](https://github.com/Mega-Mewthree/BetterDiscordPlugins/tree/master/Plugins/AutoStartRichPresence) - [BetterDiscord](https://betterdiscord.app/) plugin with autostart
 - [Custom RPC](https://github.com/E-boi/custom-rpc) - [Powercord](https://powercord.dev/) plugin with autostart
-- [MultiRPC](https://github.com/FluxpointDev/MultiRPC) - Discord Rich Presence manager with a cool GUI and support for custom status and multiple profiles!
-- [DiscordRPCMaker](https://github.com/ThatOneCalculator/DiscordRPCMaker) - Good RPC manager
+- [DiscordRPCMaker](https://github.com/ThatOneCalculator/DiscordRPCMaker) - The best way to make and manage custom Discord Rich Presences with buttons! (I guess it is)
+- [MultiRPC](https://github.com/FluxpointDev/MultiRPC) - Good RPC manager
 
 ## Music
 - [Last.fm Discord Integrator](https://github.com/tangenx/lfdi) - Flutter app, that transfers Last.FM status to your Discord profile (It can be called Universal Music RPC bundle)

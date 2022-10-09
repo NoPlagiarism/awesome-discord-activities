@@ -47,6 +47,7 @@ List of awesome external Discord Rich Presences for games/programs and etc
 ## Writing/Design
 - [DiscordForOffice](https://github.com/7coil/DiscordForOffice) - Discord Rich Presence for Microsoft Office (2013 and above, Office 365). Word/PowerPoint/Excel/Outlook
 - [figma-discord-presence](https://github.com/bryanberger/figma-discord-presence) - Update your discord activity status with a rich presence from [Figma](https://www.figma.com/)
+- [notion-discord-rpc](https://github.com/nandiniproothi/notion-discord-rpc) - Discord Rich Presence Client (RPC) for [Notion](https://www.notion.so/)
 
 ## 3D
 - [BlendPresence](https://github.com/abrasic/blendpresence) - Addon for [Blender](https://www.blender.org/) that allows you to show off what you're doing in Discord using Rich Presence
@@ -72,3 +73,4 @@ List of awesome external Discord Rich Presences for games/programs and etc
 ## Other
 - [RPC-Pc-Status](https://github.com/Faelayis/RPC-Pc-Status) - Rich Presence Pc Status for your Discord
 - [treecord](https://github.com/cykreet/treecord) - Discord teamtrees.org rich presence - displays recent donations with names, amount of trees and corresponding badge.
+- [qBittorrent Rich Presence](https://github.com/weebi/qbittorrent-rp) - Discord Rich Presence for [qBittorrent](https://www.qbittorrent.org/)

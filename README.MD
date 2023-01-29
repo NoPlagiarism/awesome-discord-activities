@@ -90,6 +90,7 @@ List of awesome external Discord Rich Presences for games/programs and etc
 - [Outer Wilds Discord Rich Presence](https://github.com/MegaPiggy/OWRichPresence) - Adds Discord Rich Presence to [Outer Wilds](https://www.mobiusdigitalgames.com/outer-wilds.html)
 - [IV-Presence](https://github.com/ClonkAndre/IV-Presence) - This mod allows you to share your actions from [GTA IV](https://store.steampowered.com/app/12210/Grand_Theft_Auto_IV_The_Complete_Edition/) to everyone via Discord's Rich Presence feature.
 - [OMORI-DiscordRPC](https://github.com/thehatkid/OMORI-DiscordRPC) - [OMORI](https://omori-game.com) mod that's adds Discord integration such as Discord RPC, Activity (Rich Presence), etc.
+- [Rblxcord](https://github.com/Ralsin/rblxcord) - Discord Rich Presence support for Roblox
 
 ## Consoles / Emulators
 - [PS3-Rich-Presence-for-Discord](https://github.com/zorua98741/PS3-Rich-Presence-for-Discord) - Discord Rich Presence script for PS3 consoles on HFW&HEN or CFW, cuz why not?

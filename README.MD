@@ -2,6 +2,19 @@
 
 List of awesome external Discord Rich Presences for games/programs and etc
 
+## Contents
+- [Uncategorized but Cool](#uncategorized-but-cool)
+- [Custom](#custom)
+- [Music](#music)
+- [Media](#media)
+- [Media editors](#media-editors)
+- [Programming/Editing](#programmingediting)
+- [Writing/Design](#writingdesign)
+- [3D](#3d)
+- [Gaming](#gaming)
+- [Consoles / Emulators](#consoles--emulators)
+- [Other](#other)
+
 ## Uncategorized but Cool
 - [PreMid](https://premid.app/) - Shows what you're doing on the web. Youtube (+music), Gartic Phone, Netflix, Crunchyroll and [much more](https://premid.app/store)
 - [show-all-activities](https://github.com/Juby210/show-all-activities) - Powercord plugin that shows every status enabled. [BetterDiscord port included](https://github.com/Strencher/BetterDiscordStuff/tree/master/ShowAllActivities). Big thanks to [Juby210](https://github.com/Juby21) and [Strencher](https://github.com/Strencher)

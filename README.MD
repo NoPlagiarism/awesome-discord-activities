@@ -102,4 +102,4 @@ List of awesome external Discord Rich Presences for games/programs and etc
 ## Other
 - [RPC-Pc-Status](https://github.com/Faelayis/RPC-Pc-Status) - Rich Presence Pc Status for your Discord
 - [treecord](https://github.com/cykreet/treecord) - Discord teamtrees.org rich presence - displays recent donations with names, amount of trees and corresponding badge.
-- [qBittorrent Rich Presence](https://github.com/weebi/qbittorrent-rp) - Discord Rich Presence for [qBittorrent](https://www.qbittorrent.org/)
+- [qBittorrent Rich Presence](https://github.com/LockBlock-dev/qbittorrent-rp) - Discord Rich Presence for [qBittorrent](https://www.qbittorrent.org/)

@@ -53,7 +53,7 @@ List of awesome external Discord Rich Presences for games/programs and etc
 
 ## Programming/Editing
 - [JetBrains Discord Integration](https://github.com/Almighty-Alpaca/JetBrains-Discord-Integration) - Works with [JetBrains](https://www.jetbrains.com/products/) IDEs (PyCharm, IntelliJ IDEA, Android Studio and etc)
-- [discord-vscode](https://github.com/iCrawl/discord-vscode) - Discord RPC for [Visual Studio Code](https://code.visualstudio.com/)
+- [vscord](https://github.com/leonardssh/vscord) - Discord RPC for [Visual Studio Code](https://code.visualstudio.com/)
 - [Discord Rich Presence for Eclipse IDE](https://github.com/echebbi/eclipse-discord-integration) - plugin for [Eclipse](https://www.eclipse.org/)
 - [Notepad++ Discord Rich Presence Plugin](https://github.com/MikeCoder96/NotePad-Discord-Rich-Presence-Plugin) - Plugin for [Notepad++](https://notepad-plus-plus.org/)
 - [Visual Studio Discord Rich Presence Client](https://github.com/Ryavell/VisualStudioDiscordRPC) - [Visual Studio](https://visualstudio.com/) extension. Supports 2019 and 200 versions

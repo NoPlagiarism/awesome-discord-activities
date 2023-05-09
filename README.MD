@@ -63,7 +63,7 @@ List of awesome external Discord Rich Presences for games/programs and etc
 - [presence.nvim](https://github.com/andweeb/presence.nvim) - Discord Rich Presence for [Neovim](https://neovim.io)
 - [coc-discord-rpc](https://github.com/leonardssh/coc-discord-rpc) - An awesome and fully customizable coc-extension to get Discord Rich Presence integration with [NeoVim](https://neovim.io/) and [Vim](https://www.vim.org/).
 - [Elcord](https://github.com/Mstrodl/elcord) - Discord Rich Presence for [Emacs](https://www.gnu.org/software/emacs/)
-- [Godot Editor Discord Presence](https://github.com/3ddelano/godot-editor-discord-presence) - Shows what you are doing in the [Godot](https://godotengine.org/) Editor as your Discord presence
+- [Godot Editor Discord Presence](https://github.com/3ddelano/godot-editor-discord-presence) - Shows what you are doing in the [Godot](https://godotengine.org/) Editor as your Discord presence. Godot 3 only. Godot 4 in WIP https://github.com/3ddelano/godot-editor-discord-presence/pull/11
 - [Unity Editor Rich Presence](https://github.com/MarshMello0/Editor-Rich-Presence) - Discord Rich Presence for the [Unity](https://unity.com) editor
 - [Discord Arduino Presence](https://github.com/Yeikzy/discord-arduino) - Shows what you are editing in Arduino IDE
 - [RPFX](https://github.com/PKBeam/RPFX) - **RPFX** is a Discord **R**ich **P**resence client **f**or **X**code that lets you share what you're programming on your Discord status.

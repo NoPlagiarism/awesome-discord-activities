@@ -83,7 +83,7 @@ List of awesome external Discord Rich Presences for games/programs and etc
 - [Undertale Discord Rich Presence](https://github.com/AntonHei/Undertale_DiscordRichPresence) - Rich Presence Script for [Undertale](https://undertale.com/). (Working with Save-Games)
 - [ApexRPC](https://github.com/Holfz/ApexRPC) - ApexRPC is a client to convert Steam Rich Presence to Discord Rich Presence for [Apex Legends](https://store.steampowered.com/app/1172470/Apex_Legends/) (Steam only)
 - [valorant-rpc](https://github.com/colinhartigan/valorant-rpc) - Feature-rich Discord rich-presence implementation for [Valorant](https://playvalorant.com/)
-- [StardewPresence](https://github.com/jaaiden/StardewPresence) - Discord Rich Presence for [Stardew Valley](https://www.stardewvalley.net/)
+- [SVRichPresence](https://github.com/RuiNtD/SVRichPresence) - Discord Rich Presence for [Stardew Valley](https://www.stardewvalley.net/) as mod. [NexusMods link](https://www.nexusmods.com/stardewvalley/mods/2156)
 - [rpc4stalker](https://github.com/TosoxDev/rpc4stalker) - An easy discord rich-presence implementation for S.T.A.L.K.E.R. (Call of Chernobyl, Call of The Zone, Call of Misery, Anomaly, Dead Air, A.R.E.A)
 - [TouhouRPC](https://github.com/TheBakaRem/TouhouRPC) - Program that creates a Discord Rich Presence status for Touhou games
 - [Steam Presence](https://github.com/JustTemmie/steam-presence) - Script, displaying the game you're playing on discord. Useful for Linux, Steam Deck and [etc](https://github.com/JustTemmie/steam-presence#why)

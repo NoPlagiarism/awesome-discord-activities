@@ -32,7 +32,17 @@ List of awesome external Discord Rich Presences for games/programs and etc
 
 ## Music
 
-- [Last.fm Discord Integrator](https://github.com/tangenx/lfdi) - [Flutter](https://flutter.dev) app, that transfers Last.FM status to your Discord profile (It can be called Universal Music RPC bundle)
+- [Last.FM](https://last.fm) (or Universal Music RPC Bundles)
+  - [Last.fm Discord Integrator](https://github.com/tangenx/lfdi) - [Flutter](https://flutter.dev) app, that transfers Last.FM status to your Discord profile
+  - [LastFMRichPresence](https://github.com/dimdenGD/LastFMRichPresence) - [BetterDiscord](https://betterdiscord.app) plugin
+  - [lastfm-rp-replugged](https://github.com/RuiNtD/lastfm-rp-replugged) - [Replugged](https://replugged.dev) plugin
+  - [LastFMRichPresence](https://vencord.dev/plugins/LastFMRichPresence) - [Vencord](https://vencord.dev) plugin
+- Players with built-in Discord RPC
+  - [muffon](https://muffon.netlify.app) | [Source](https://github.com/staniel359/muffon)
+  - [YouTube Music Desktop](https://ytmdesktop.app) | [Source](https://github.com/ytmdesktop/ytmdesktop)
+  - [nuclear](https://nuclear.js.org) | [Source](https://github.com/nukeop/nuclear)
+  - [Harmonoid](https://harmonoid.com) | [Source](https://github.com/harmonoid/harmonoid)
+  - [Cider](https://cider.sh) | Proprietary
 - [AIMP Discord Presence](https://github.com/Exle/AIMP-Discord-Presence) - Plugin for desktop music player [AIMP](https://www.aimp.ru)
 - [Discord Rich Presence Winamp plugin](https://github.com/clandrew/wdrp) - plugin for old and friendly Winamp
 - [audacious-plugin-rpc](https://github.com/darktohka/audacious-plugin-rpc) - Discord Rich Presence plugin for the [Audacious](https://audacious-media-player.org) music player!

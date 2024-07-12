@@ -18,7 +18,10 @@ List of awesome external Discord Rich Presences for games/programs and etc
 
 ## Uncategorized but Cool
 
-- [PreMid](https://premid.app) - Shows what you're doing on the web. Youtube (+music), Gartic Phone, Netflix, Crunchyroll and [much more](https://premid.app/store)
+- [PreMiD](https://premid.app) - Shows what you're doing on the web. Youtube (+music), Gartic Phone, Netflix, Crunchyroll and [much more](https://premid.app/store)
+  - [PreMiD-rs](https://github.com/sleeyax/PreMiD-rs) - Alternative PreMiD backend written in Rust. No electron => more lightweight
+  - [PreWrap](https://github.com/lolamtisch/PreWrap) - [PreMiD Presences](https://github.com/PreMiD/Presences) wrapper for the [Discord-RPC-Extension](https://github.com/lolamtisch/Discord-RPC-Extension) with focus on security and performance.
+- [DRP_Creative](https://github.com/djkato/DRP_Creative) - Show your friends what you're working on, be it in Adobe Suite, Autodesk Suite, Cinema 4D, Davinci Resolve, Vegas or many more! (Check repo for more supported apps)
 - [Kizzy](https://github.com/dead8309/Kizzy) - Discord Rich Presence for Android. Custom, App Detection, Media, even Console
 - [show-all-activities](https://github.com/Strencher/BetterDiscordStuff/tree/master/ShowAllActivities) - [BetterDiscord](https://betterdiscord.app) plugin that shows every status enabled. Big thanks to [Juby210](https://github.com/Juby210) [ [Original idea]((https://github.com/Juby210/show-all-activities)) ] and [Strencher](https://github.com/Strencher)
 
@@ -45,6 +48,7 @@ List of awesome external Discord Rich Presences for games/programs and etc
 - [Discrakt](https://github.com/afonsojramos/discrakt) - Easy to Use [Trakt](https://trakt.tv) Discord Rich Presence. (It can be called Universal Media RPC bundle)
 - [mpv-discord](https://github.com/tnychn/mpv-discord) - A cross-platform Discord Rich Presence integration for [mpv](https://mpv.io) with no external dependencies.
 - [discord-rich-presence-plex](https://github.com/phin05/discord-rich-presence-plex) - Displays [Plex](https://www.plex.tv) status to Discord RPC
+- [MAL-Sync](https://malsync.moe) - [Open-Source](https://github.com/MALSync/MALSync) is an extension, which enables automatic episode tracking between [MyAnimeList](https://myanimelist.net)/[Anilist](https://anilist.co)/[Kitsu](https://kitsu.io)/[Simkl](https://simkl.com)/[Shikimori](https://shikimori.one) and multiple anime streaming websites + Rich Presence using [Discord-RPC-Extension](https://github.com/lolamtisch/Discord-RPC-Extension)
 
 ## Media Editors
 
@@ -107,4 +111,5 @@ List of awesome external Discord Rich Presences for games/programs and etc
 ## Other
 
 - [RPC-Pc-Status](https://github.com/Faelayis/RPC-Pc-Status) - Rich Presence Pc Status for your Discord
+- [rpcpp](https://github.com/grialion/rpcpp) - let your friends know about your Linux system (I use [Arch](https://archlinux.org), btw)
 - [qBittorrent Rich Presence](https://github.com/LockBlock-dev/qbittorrent-rp) - Discord Rich Presence for [qBittorrent](https://www.qbittorrent.org)

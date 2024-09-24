@@ -32,6 +32,7 @@ List of awesome external Discord Rich Presences for games/programs and etc
 
 ## Music
 
+- [MusicPresence](https://musicpresence.app) - Music Presence that works with any media player (Universal Music App) / ( [Supported Players List](https://github.com/ungive/discord-music-presence/blob/master/documentation/supported-media-players.md) )
 - [Last.FM](https://last.fm) (or Universal Music RPC Bundles)
   - [Last.fm Discord Integrator](https://github.com/tangenx/lfdi) - [Flutter](https://flutter.dev) app, that transfers Last.FM status to your Discord profile
   - [LastFMRichPresence](https://github.com/dimdenGD/LastFMRichPresence) - [BetterDiscord](https://betterdiscord.app) plugin

@@ -48,7 +48,7 @@ List of awesome external Discord Rich Presences for games/programs and etc
 - [Discord Rich Presence Winamp plugin](https://github.com/clandrew/wdrp) - plugin for old and friendly Winamp
 - [audacious-plugin-rpc](https://github.com/darktohka/audacious-plugin-rpc) - Discord Rich Presence plugin for the [Audacious](https://audacious-media-player.org) music player!
 - [VK Music RPC for Discord](https://github.com/DaveFeed/VK-Music-RPC-for-Discord) - VK.com Music RPC using parser
-- [yandexmusicrpc](https://github.com/schwarzalexey/yandexmusicrpc) - [Yandex Music](https://music.yandex.ru) Discord RPC based on Yandex
+- [YandexMusicRPC](https://github.com/FozerG/YandexMusicRPC) - [Yandex Music](https://music.yandex.ru) Discord RPC based for Yandex Music. It's fork of [WinYandexMusicRPC](https://github.com/FozerG/WinYandexMusicRPC)
 - [apple-music-discord-rpc](https://github.com/NextFire/apple-music-discord-rpc) - Discord Rich Presence Client for the macOS Apple Music app and iTunes
 - [TIDAL-Discord-Rich-Presence-UNOFFICIAL](https://github.com/purpl3F0x/TIDAL-Discord-Rich-Presence-UNOFFICIAL) - UNOFFICIAL [Tidal](https://tidal.com) Discord Rich Presence
 - [DiscordBee](https://github.com/sll552/DiscordBee) - [MusicBee](https://www.getmusicbee.com) plugin that updates your Discord status with the currently playing track

@@ -27,6 +27,7 @@ List of awesome external Discord Rich Presences for games/programs and etc
 
 ## Custom
 
+- [Discord-CustomRP](https://customrp.xyz) - Simple custom Rich Presence manager which support Windows 7/8/10/11. [Github repo](https://github.com/maximmax42/Discord-CustomRP)
 - [AutoStartRichPresence](https://github.com/Mega-Mewthree/BetterDiscordPlugins/tree/master/Plugins/AutoStartRichPresence) - [BetterDiscord](https://betterdiscord.app) plugin with autostart
 - [MultiRPC](https://github.com/FluxpointDev/MultiRPC) - Discord rich presence manager with a cool GUI and support for custom status and multiple profiles!
 
